@@ -1,3 +1,3 @@
 # retro-bowl  
   
-https://bowl-retro.vercel.app/
+https://cyclokid.github.io/retro-bowl-piplup
